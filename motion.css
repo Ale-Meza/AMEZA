@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Hind');  
+
+body{
+            font-family: 'Hind', sans-serif;
+            font-size: 40px;
+            color: black;
+            padding-left: 5px;
+            line-height: 50px;
+        }
+h2{
+            font-family: 'Hind', sans-serif;
+            font-size: 60px;
+            color: black; 
+            
+}
+
+h1{
+            font-family: 'Hind', sans-serif;
+            font-size: 50px;
+            color: black;
+}
+
+div {
+    width: 100%;
+    padding: 0px;
+    border: 5px solid black;
+    margin-bottom: 20px;
+}
